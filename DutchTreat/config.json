@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DutchConnectionString": "Data Source=CHRISPCLONDON;Initial Catalog=DutchTreats;Integrated Security=True;MultipleActiveResultSets=true;"
+  } 
+}
